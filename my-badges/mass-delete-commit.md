@@ -4,4 +4,4 @@
 
 Commits:
 
-- <a href="https://github.com/sindresorhus/trash/commit/24cd5c1d964806c3f09e06de845925be00cfff0f">24cd5c1</a>
+- <a href="https://github.com/antonmedv/spark/commit/9fccbd0ae4fe1e75a279e75cd617cbf4f5fc56a5">9fccbd0</a>
