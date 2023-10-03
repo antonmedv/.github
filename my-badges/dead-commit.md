@@ -1,6 +1,8 @@
 <img src="https://github.com/my-badges/my-badges/blob/main/src/all-badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; in the commit sha." title="I pushed a commit with &quot;dead&quot; in the commit sha." width="128">
 <strong>I pushed a commit with &quot;dead&quot; in the commit sha.</strong>
-<br><br>- <a href="https://github.com/sindresorhus/empty-trash/commit/7c58ecb5b0f632eedead9ed0196972cc6ab4a916">7c58ecb5b0f632ee<strong>dead</strong>9ed0196972cc6ab4a916</a>
+<br><br>
+
+- <a href="https://github.com/sindresorhus/empty-trash/commit/7c58ecb5b0f632eedead9ed0196972cc6ab4a916">7c58ecb5b0f632ee<strong>dead</strong>9ed0196972cc6ab4a916</a>
 - <a href="https://github.com/sindresorhus/envcheck/commit/697af47d2874c4d4ecde34615636edeada222e2f">697af47d2874c4d4ecde34615636e<strong>dead</strong>a222e2f</a>
 - <a href="https://github.com/sindresorhus/file-type/commit/7c81da930bd1dc7c42069095cdead0dc536436e1">7c81da930bd1dc7c42069095c<strong>dead</strong>0dc536436e1</a>
 - <a href="https://github.com/sindresorhus/grunt-ftp/commit/dead5f240c4631e867fe8bbded5bb276e211cfd4"><strong>dead</strong>5f240c4631e867fe8bbded5bb276e211cfd4</a>
