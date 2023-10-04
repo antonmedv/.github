@@ -1,5 +1,5 @@
-<img src="https://github.com/my-badges/my-badges/blob/main/src/all-badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; 11 times" title="I pushed a commit with &quot;dead&quot; 11 times" width="128">
-<strong>I pushed a commit with &quot;dead&quot; 11 times</strong>
+<img src="https://github.com/my-badges/my-badges/blob/main/src/all-badges/dead-commit/dead-commit.png?raw=true" alt="I pushed a commit with &quot;dead&quot; 11 times." title="I pushed a commit with &quot;dead&quot; 11 times." width="128">
+<strong>I pushed a commit with &quot;dead&quot; 11 times.</strong>
 <br><br>
 
 - <a href="https://github.com/sindresorhus/empty-trash/commit/7c58ecb5b0f632eedead9ed0196972cc6ab4a916">7c58ecb5b0f632ee<strong>dead</strong>9ed0196972cc6ab4a916</a>
