@@ -1,5 +1,5 @@
-<img src="https://github.com/my-badges/my-badges/blob/main/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true" alt="I tried to undo my undo." title="I tried to undo my undo." width="128">
-<strong>I tried to undo my undo.</strong>
+<img src="https://github.com/my-badges/my-badges/blob/main/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true" alt="I reverted a revert commit." title="I reverted a revert commit." width="128">
+<strong>I reverted a revert commit.</strong>
 <br><br>
 
 Commits:
